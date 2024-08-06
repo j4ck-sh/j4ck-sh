@@ -1,6 +1,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+Is+Names+Jack!!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+To+My+Profile;" />
 </h1>
 
 <h3 align="center">I'm a Cyber Security student from the UK, and I'm currently learning Ethical hacking and Pentesting. As well as working on many coding projects</h3>
